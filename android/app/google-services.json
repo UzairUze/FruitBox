@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505474410616",
+    "project_id": "fruitbox-1",
+    "storage_bucket": "fruitbox-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505474410616:android:c1b95ddfa389d12639a58d",
+        "android_client_info": {
+          "package_name": "com.uzeetech.fruitbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVjhVt7JRC6QXU5Xrys-ZNCin5m74VYCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
